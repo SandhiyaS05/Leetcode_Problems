@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [1323-maximum-69-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1323-maximum-69-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
