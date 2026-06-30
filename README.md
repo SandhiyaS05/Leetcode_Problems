@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
