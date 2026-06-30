@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 ## Math
