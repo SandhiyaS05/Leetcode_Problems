@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3668-restore-finishing-order) |
 ## Counting
 |  |
 | ------- |
