@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [1323-maximum-69-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
