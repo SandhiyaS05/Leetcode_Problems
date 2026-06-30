@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2485-find-the-pivot-integer](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
