@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0575-distribute-candies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
