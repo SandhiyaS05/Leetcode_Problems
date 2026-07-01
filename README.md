@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0575-distribute-candies) |
