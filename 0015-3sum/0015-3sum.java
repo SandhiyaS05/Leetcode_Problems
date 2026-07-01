@@ -8,14 +8,22 @@ class Solution {
             int end=nums.length-1;
             while(start<end){
                     int sum=nums[i]+nums[start]+nums[end];
-                    if(sum==0){
+                if(sum==0){
                     List<Integer> l1=new ArrayList<>();
                     l1.add(nums[i]);
                     l1.add(nums[start]);
                     l1.add(nums[end]);
                     h1.add(l1);
-                    start++;
-                    end--;
+                    int startNumber=nums[start];
+                    int endNumber=nums[end];
+                    while(start<end&&nums[start]==startNumber)
+                    {
+                        start++;
+                    }
+                    while(start<end&&nums[end]==endNumber)
+                    {
+                        end--;
+                    }
                 }
                 else if(sum>0){
                     end--;
@@ -23,7 +31,6 @@ class Solution {
                 else{
                     start++;
                 }
-            
             }
         }
         for(var it:h1){
