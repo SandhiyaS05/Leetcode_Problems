@@ -6,12 +6,12 @@ class Solution {
         for(int right=0;right<nums.length;right++){
             if(nums[right]==0){
                 zerocount++;
-            while(zerocount>k){
-                if(nums[left]==0){
-                    zerocount--;
+                while(zerocount>k){
+                    if(nums[left]==0){
+                        zerocount--;
+                    }
+                    left++;
                 }
-                left++;
-            }
             }
             maxlen=Math.max(maxlen,right-left+1);
         }
