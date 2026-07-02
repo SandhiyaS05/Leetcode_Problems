@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2942-find-words-containing-character](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3668-restore-finishing-order) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0929-unique-email-addresses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
