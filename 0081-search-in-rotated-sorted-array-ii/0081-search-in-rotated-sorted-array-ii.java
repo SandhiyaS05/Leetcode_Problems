@@ -8,7 +8,10 @@ class Solution {
             if(nums[mid]==target){
                 return true;
             }
-            else if(nums[low]<=nums[mid]){
+            if(nums[low]==nums[mid]){
+                low++;
+            }
+            else if(nums[low]<nums[mid]){
                 if(nums[low]<=target&&target<nums[mid]){
                     high=mid-1;
                 }
