@@ -8,13 +8,13 @@ class Solution {
             h1.put(ch,h1.getOrDefault(ch,0)+1);
         }
         for(char ch:t.toCharArray()){
-            h1.put(ch,h1.getOrDefault(ch,0)-1);
-        }
-        for(var it: h1.entrySet()){
-            if(it.getValue()!=0){
+            if(!h1.containsKey(ch)){
                 return false;
             }
+            h1.put(ch,h1.getOrDefault(ch,0)-1);
+            if(h1.get(ch)==0) h1.remove(ch);
         }
-        return true;
+        
+        return h1.isEmpty();
     }
 }
