@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
