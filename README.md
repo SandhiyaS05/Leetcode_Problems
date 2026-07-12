@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
