@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
@@ -258,4 +259,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2906-construct-product-matrix](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SandhiyaS05/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
