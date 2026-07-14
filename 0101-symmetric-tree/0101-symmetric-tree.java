@@ -24,7 +24,9 @@ class Solution {
         if(left.val!=right.val){
             return false;
         }
-        return isMirror(left.left,right.right)&&isMirror(left.right,right.left);
+        boolean x=isMirror(left.left,right.right);
+        boolean y=isMirror(left.right,right.left);
+        return x&y;
     }
     public boolean isSymmetric(TreeNode root) {
         return isMirror(root.left,root.right);
